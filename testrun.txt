@@ -1,0 +1,22 @@
+n = 10:
+heapsort: 1ms
+quicksort: 0ms
+n = 100:
+heapsort: 0ms
+quicksort: 0ms
+n = 1000:
+heapsort: 0ms
+quicksort: 0ms
+n = 10000:
+heapsort: 1ms
+quicksort: 3ms
+n = 100000:
+heapsort: 15ms
+quicksort: 10ms
+n = 1000000:
+heapsort: 166ms
+quicksort: 120ms
+n = 10000000:
+heapsort: 2752ms
+quicksort: 991ms
+
